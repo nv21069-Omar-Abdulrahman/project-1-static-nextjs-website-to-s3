@@ -140,21 +140,15 @@ function Resume() {
   let resume = [
     {
       company: 'NVTC',
-      title: 'CEO',
+      title: 'student',
       logo: logoPlanetaria,
-      start: '2019',
+      start: '2021',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
       },
     },
-    {
-      company: 'Airbnb',
-      title: 'Product Designer',
-      logo: logoAirbnb,
-      start: '2014',
-      end: '2019',
-    },
+    
     {
       company: 'Facebook',
       title: 'iOS Software Engineer',
