@@ -264,7 +264,7 @@ export default function Home({ articles }) {
           student,future engeneer
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          I'm omar , a student in Nasser Vocational Training Centre in Bahrain ,I study Cloud Computing (aws) with Mr.Abdulrahman Khalid .We work on projects and Labs so we can improve our cloud solutions skills
+          I'm omar, a student in Nasser Vocational Training Centre in Bahrain ,I study Cloud Computing (aws) with Mr.Abdulrahman Khalid .We work on projects and Labs so we can improve our cloud solutions skills
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
